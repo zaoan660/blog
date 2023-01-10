@@ -1,0 +1,1 @@
+This is a maze game. I haven't finished writing it yet, now I can only generate a maze map and display it using plt
