@@ -1,1 +1,3 @@
-This is a maze game. I haven't finished writing it yet, now I can only generate a maze map and display it using plt
+This is a maze game.
+plt_generate_maze.py realizes the function of generating maze.
+agent_maze.py implements the player's movement function and the robot's shortest path function.
