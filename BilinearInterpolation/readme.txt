@@ -1,0 +1,1 @@
+Use bilinear interpolation to scale images without using image processing such as cv2
